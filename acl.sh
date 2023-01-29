@@ -36,6 +36,6 @@ echo "Este es el contenido de pruebas2.dat" > /media/irueda/Publico/proyectos/pr
 echo "Este es el contenido de proyecto1.dat" >/media/irueda/Publico/proyectos/proyecto1.dat
 echo "Este es el contenido de proyecto2.dat" > /media/irueda/Publico/proyectos/proyecto2.dat
 echo "#!/bin/bash" > /media/irueda/Publico/proyectos/src/app1.dat
-echo "echo \"Contenido de app1 \"" >> /media/irueda/Publico/proyectos/src/app1.dat
+echo "echo \"Contenido de app1 \"" >> /media/irueda/Publico/proyectos/src/app1.sh
 echo "#!/bin/bash" > /media/irueda/Publico/proyectos/src/app2.dat
-echo "echo \"Contenido de app2 \"" >> /media/irueda/Publico/proyectos/src/app2.dat
+echo "echo \"Contenido de app2 \"" >> /media/irueda/Publico/proyectos/src/app2.sh
